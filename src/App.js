@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import FetchExample from "./demos/FetchExample";
 
 function App() {
   return (
     <div className="App">
-      hello
+      <FetchExample />
     </div>
   );
 }
